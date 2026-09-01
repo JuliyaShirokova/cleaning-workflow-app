@@ -1,2 +1,7 @@
-# cleaning-workflow-app
-Приложение для организации рабочего процесса уборки (PWA + FastAPI + React)
+# Приложение для организации рабочего процесса уборки
+
+Многофункциональное PWA-приложение для автоматизации клининговых процессов с ролевой моделью (руководитель/рабочий), матрицей расстояний и алгоритмическим планировщиком задач.
+
+## Стек технологий:
+- **Backend:** Python, FastAPI, PostgreSQL, SQLAlchemy, Google OR-Tools.
+- **Frontend:** React / Vue.js, Tailwind CSS, Vite, PWA (Service Workers).
